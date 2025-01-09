@@ -1,5 +1,5 @@
 title: Juan Gonzalez
-description: Github hosted webpage to display my experience with Programming and Scripting
-show_downloads: true
+description: Github hosted webpage to display my programming and scripting experience.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
