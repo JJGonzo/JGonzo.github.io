@@ -1,18 +1,11 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 [LinkedIn](https://www.linkedin.com/in/jgonzalez805)
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hello observers of my Github Page, Im a navy vet and Computer Information Systems Student. Please have a look at what I've  been working on.
 
 ## Projects
 
