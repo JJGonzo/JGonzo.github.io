@@ -5,7 +5,7 @@ layout: default
 
 # About me
 
-Hello observers of my Github Page, Im a navy vet and Computer Information Systems Student. Please have a look at what I've  been working on.
+Hello observers of my Github Page, Im a navy vet and Computer Information Systems Student located in Central Wisconsin. Please have a look at what I've  been working on.
 
 ## Python
 
